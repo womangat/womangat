@@ -1,4 +1,4 @@
 - 👋 Hiya, I’m @womangat
-- 👀 I’m a total coding novice, interested in R and its applications in journalism and epidemiology  
-- 🌱 I’m currently learning R (surprise, surprise)! 
+- 👀 I’m interested in R and its applications in journalism and epidemiology  
+- 🌱 I’m currently (and always) learning R (surprise, surprise)! 
 - 📫 Reach out to me on the bird app @womangat_
